@@ -25,7 +25,7 @@ Olist is the largest department store in Brazilian marketplaces. It connects sma
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python **
+- **Python**
 - **Pandas** — data cleaning & manipulation
 - **Matplotlib & Seaborn** — data visualization
 - **Jupyter Notebook** — development environment
