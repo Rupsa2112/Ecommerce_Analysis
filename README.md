@@ -39,3 +39,13 @@
 1) health_beauty leads revenue in MG (more than 175) and RJ (more than 150) — it is the most purchased and highest earning category in these two states consistently.
 2) All 3 categories perform very similarly in SP — SP is so large that revenue is spread evenly across categories.
 3) bed_bath_table and sports_leisure are close competitors across all 3 states — neither category has a clear advantage suggesting customers treat them interchangeably.
+
+
+### 4. Repeat Vs One Time Customers 
+![Repeat Vs One Time Customers](images/10_repeat_one_customers.png)
+
+**Insights:**
+1) About 97% of customers purchased only once, indicating that most users do not return for another purchase.
+2) Only 3% of customers are repeat customers, which suggests weak customer retention.
+3) Since almost all purchases come from one-time buyers, the business currently relies more on acquiring new customers.
+4) The company needs to work on personalized recommendations, discounts for every customer such that they return after one time purchase.
