@@ -62,3 +62,34 @@
 3) computers_accessories shows strong demand for tech products.
 4) The top 5 categories all have 10,000+ orders - showing consistent demand.
 5) Home & lifestyle categories (bed_bath_table, health_beauty, furniture_decor) dominate - suggesting customers primarily use this platform for household and personal care needs.
+
+
+### 2. Top 10 Most Reviewed Product Category
+![Top 10 Most Reviewed Product Category](images/6_Top_10_most_reviewed_product.png)
+
+**Insights:**  
+1) CDs/DVDs has the highest review score - indicating customers are very satisfied with media products.
+2) Kids Fashion is second - showing high satisfaction with children's clothing.
+3) All top 10 categories have scores above 4.2 - indicating overall high customer satisfaction across the platform.
+4) The difference between highest (4.643) and lowest (4.296) is only 0.347 - showing consistent quality across categories.
+5) Books (General, Import, Technical) appear 3 times in top 10 - suggesting customers are very satisfied with book purchases.
+
+
+### 3. Top 10 Product Categories By Revenue
+![Top 10 Product Categories By Revenue](images/7_Top_10_revenue_product.png)
+
+**Insights:** 
+1) health_beauty generates the highest revenue, despite being 3rd in top 10 orders — indicating higher priced products.
+2) watches_gifts is 2nd in revenue, but was 7th in top 10 orders - confirming it has high priced items.
+3) bed_bath_table is 3rd in revenue and also 1st in top 10 orders - showing both high sales and decent pricing.
+4) cool_stuff appears in revenue top 10 but was not in top 10 orders - suggesting it has fewer but expensive orders.
+
+
+ ### 4. Top 10 Average Price Of Product Categories
+![Top 10 Average Price Of Product Categories](images/8_Top_10_average_price_product.png)
+
+**Insights:**   
+1) Computers has the highest average price — indicating customers spend heavily on tech products.
+2) Oven_and_coffee_machine is in 2nd position — home appliances are premium priced.
+3) 'unknown' category suggests some high-priced products were not properly categorized — data quality issue.
+4) Computers and home appliances are the most expensive categories. Although they don't appear in the top 10 by orders,their high price makes them valuable for revenue. These are good targets for premium marketing campaigns.
