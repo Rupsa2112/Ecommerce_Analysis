@@ -33,7 +33,7 @@
 
 
 ### 3. Top 3 Product Categories By Revenue In Top 3 States 
-![Top 3 Product Categories By Revenue In Top 3 States](images/22_Top_Categories_By_Revenue_In_Top_3_States.png)
+![Top 3 Product Categories By Revenue In Top 3 States](images/22_Top_3_Categories_By_Revenue_In_Top_3_States.png)
 
 **Insights:**
 1) health_beauty leads revenue in MG (more than 175) and RJ (more than 150) — it is the most purchased and highest earning category in these two states consistently.
