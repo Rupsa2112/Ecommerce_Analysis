@@ -71,3 +71,53 @@ a blueprint to improve all four together, saving time and cost for the company.
 3) Only 2.3% of orders arrive exactly on the estimated date — this means company is giving customers a much later delivery date than actually needed, so that customers will trust the platform more and know exactly when to expect their order.
 4) The Company could actively promote "delivers earlier than expected" as a selling point to attract new customers and retain existing ones.
 5) The Company needs to give attention to the 6.5% late delivery rate as even a small percentage of unhappy customers can significantly damage ratings and brand reputation on the platform.
+
+
+### 7.  Distance Vs Delivery Time Vs Review Score 
+![Distance Vs Delivery Time Vs Review Score](images/23_Distance_Vs_Delivery_Time_Vs_Review_Score.png)
+
+**Insights:**
+1) Different state orders take 14.7 days while same state orders take only 7.5 days — orders crossing state boundaries take double the time to deliver compared to local orders.
+2) Review score drops from 4.1 (same state) to 4.0 (different state) — surprisingly small difference, suggesting customers are somewhat   understanding of longer delivery times for distant orders.
+3) Despite 2x longer delivery time, review score only drops by 0.1  — this means distance alone does not drastically hurt satisfaction, company's estimation strategy is working well for cross-state orders.
+
+
+### 7.  Distribution of Review Score 
+![Distribution of Review Score](images/15_review_score_distribution.png)
+
+**Insights:**   
+1) 56.5% of customers gave 5 stars — more than half of all customers are highly satisfied, which is a strong indicator that the company's overall product and delivery experience is positive.
+2) Combined 4 and 5 star reviews make up 75.5% — this means larger portion of the customers are happy with their experience.
+3) 12.6% of customers gave 1 star - which is concerning because a good portion of customers had bad experience and are likely to give the lowest review score or return the product.
+4) 2 and 3 star reviews together make up 11.9% — customers are disappointed with the product or delivery.
+5) The gap between 5 star (56.5%) and 1 star (12.6%) is large but the 1 star percentage is still too high — the company should investigate what drives 1 star reviews (late delivery, wrong product,poor quality) and target to reduce it.
+
+
+### 8.  Review Score Vs Average Delivery Time 
+![Review Score Vs Average Delivery Time](images/17_review_score_Vs_Average_delivery_time.png)
+
+**Insights:** 
+1) As delivery time decreases, review score increases consistently. This is the strongest evidence that delivery time is the biggest driver of customer satisfaction.
+2) 1 star reviews have nearly 20 days of delivery time while 5 star reviews have nearly 11 days - 9 days difference between 1 star and 5 star eliveries shows that cutting delivery time by nearly 9 days would potentially increase the review score.
+3) 4 and 5 star reviews both fall under 12.5 days — this confirms that delivering within 12 days is the threshold for earning a positive review from customers.
+
+
+### 9.  Most Used Payment Types 
+![Most Used Payment Types](images/18_Most_Used_Payment_Types.png)
+
+**Insights:** 
+1) Credit card dominates with 86,010 orders — customers strongly prefer paying in installments.
+2) Boleto is second with 22,699 orders  — this is a Brazil-specific payment method showing that a significant portion of customers don't have or trust credit cards for online shopping.
+3) Debit card is the least used with only 1,670 orders — customers avoid debit cards for online purchases, likely due to security concerns or preference for installment options.
+4) The low voucher usage (6,212 orders) suggests the company's discount and promotional voucher strategy is not reaching enough customers — a stronger voucher campaign could boost sales significantly.
+5) The company should start offering better EMI options, zero interest plans, or credit card exclusive deals as credit card is the backbone of payment system for the company.
+
+
+### 10.  Customer Growth Over Time 
+![Customer Growth Over Time](images/21_Customer_Growth_Over_Time.png)
+
+**Insights:** 
+1) Strong overall growth from Dec 2016 to Nov 2017 — new customer grew from nearly 0 to 7000+, showing the company expanded very rapidly in its early stages.
+2) Nov 2017 has the highest no.of customers — this is likely to coincide with Black Friday 2017, confirming that seasonal sales events attracts more no.of customers.
+3) 2018 shows a stable no.of customers per month — growth has stabilized meaning the company is no longer in its hyper growth phase and needs new strategies for acquiring new customers.
+4) The data ends at Aug 2018 with more than 6000 customers — the slight decline from the 2018 peak suggests growth is starting to slow down and acquiring new customers is getting harder and more expensive.
