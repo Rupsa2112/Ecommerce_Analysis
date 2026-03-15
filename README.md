@@ -49,3 +49,25 @@
 2) Only 3% of customers are repeat customers, which suggests weak customer retention.
 3) Since almost all purchases come from one-time buyers, the business currently relies more on acquiring new customers.
 4) The company needs to work on personalized recommendations, discounts for every customer such that they return after one time purchase.
+
+
+### 5. Top 10 Fastest Delivery States 
+![Top 10 Fastest Delivery State](images/12_top_10_fastest_delivery_states.png)
+
+**Insights:**
+1) None of the states in the top 10 delivers under 8 days — this means even the best performing states do not have 7 days delivery facility that customers increasingly expect from e-commerce platforms.
+2) States ranked 7-10 (GO, RJ, MS, ES) all deliver in almost the same time (~15 days) — fixing logistics in one of these states could provide
+a blueprint to improve all four together, saving time and cost for the company.
+3) With average delivery even in top states exceeding 8 days, customer satisfaction would be low - faster delivery is directly linked to higher review scores.
+4) Company needs to set a strict 7-day delivery scheme as a target to grow their business.
+
+
+### 6. Orders Delivered Before/On/After Estimated Delivery Date
+![Orders Delivered Before/On/After Estimated Delivery Date](images/13_before_on_after_estimated_delivery_date.png)
+
+**Insights:**
+1) 91.2% of orders are delivered BEFORE the estimated date — this means Company is setting longer estimated dates than needed, a strategy called "under-promise, over-deliver" that keeps customers happy and reduces complaints.
+2) Only 6.5% of orders arrive AFTER the estimated date — this represents thousands of orders that likely resulted in negative reviews and customer dissatisfaction.
+3) Only 2.3% of orders arrive exactly on the estimated date — this means company is giving customers a much later delivery date than actually needed, so that customers will trust the platform more and know exactly when to expect their order.
+4) The Company could actively promote "delivers earlier than expected" as a selling point to attract new customers and retain existing ones.
+5) The Company needs to give attention to the 6.5% late delivery rate as even a small percentage of unhappy customers can significantly damage ratings and brand reputation on the platform.
