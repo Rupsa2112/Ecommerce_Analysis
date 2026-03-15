@@ -1,3 +1,47 @@
+# 🛒 E-Commerce Data Analysis
+
+## 📌 Problem Statement
+Olist is the largest department store in Brazilian marketplaces. It connects small businesses from all over Brazil to customers through a single contract. This project analyzes 100,000+ orders from 2016 to 2018 to understand customer behavior, delivery performance, payment patterns and key factors affecting customer satisfaction.
+
+---
+
+## 🎯 Objectives
+- Identify peak ordering periods and seasonal trends
+- Analyze delivery performance across Brazilian states
+- Understand payment behavior and preferences of customers
+- Find key factors affecting customer review scores
+- Provide actionable business recommendations
+
+---
+
+## 📂 Dataset
+
+### Brazilian E-Commerce Public Dataset by Olist
+- **Source:** [Kaggle — Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- **Period:** 2016 — 2018
+- **Size:** 100,000+ orders
+- **Type:** Real commercial data 
+
+---
+
+## 🛠️ Tools & Technologies
+- **Python **
+- **Pandas** — data cleaning & manipulation
+- **Matplotlib & Seaborn** — data visualization
+- **Jupyter Notebook** — development environment
+
+---
+
+## 🔄 Process
+1. **Data Collection** — Downloaded Olist dataset from Kaggle
+2. **Data Cleaning** — Merged 9 datasets into a single master dataset, handled missing values, removed duplicate rows, removed invalid entries
+3. **Feature Engineering** — Created delivery time, distance type, price range columns for deeper analysis
+4. **Exploratory Data Analysis** — Identified trends, patterns and relationships across all key metrics
+5. **Visualization** — Created 23 charts across key business areas
+6. **Business Insights** — Derived actionable recommendations from each analysis
+
+---
+   
 # Analysis & Insights
 
 ---
@@ -121,3 +165,23 @@ a blueprint to improve all four together, saving time and cost for the company.
 2) Nov 2017 has the highest no.of customers — this is likely to coincide with Black Friday 2017, confirming that seasonal sales events attracts more no.of customers.
 3) 2018 shows a stable no.of customers per month — growth has stabilized meaning the company is no longer in its hyper growth phase and needs new strategies for acquiring new customers.
 4) The data ends at Aug 2018 with more than 6000 customers — the slight decline from the 2018 peak suggests growth is starting to slow down and acquiring new customers is getting harder and more expensive.
+
+---
+
+## ✅ Conclusion
+- **Delivery time** is the single strongest driver of customer satisfaction on Olist
+- **91.2%** orders delivered before estimated date — customers receive their orders earlier than expected which makes them      happy and builds trust in the platform
+- **12.6%** of 1 star reviews need urgent attention as they directly damage platform reputation
+- **Only 3%** repeat customers — improving retention is the biggest untapped business opportunity
+- **Credit card EMI** options are critical as 74% customers prefer installment payments
+- **SP delivers in 8.4 days** — regional warehouses in northern states could standardize delivery nationally
+
+---
+
+## ⚠️ Limitations
+- Outlier removal not applied due to naturally wide price range across diverse product categories on the platform
+- Dataset covers only 2016-2018 — trends may have changed
+- Distance analysis based on state level not exact coordinates
+
+---
+
