@@ -52,7 +52,13 @@
 7) After 9pm, no.of orders starts decreasing as it is the dinner and bed time for most of the people.
 
 
-### 4. Peak Ordering Time
-![Peak Ordering Time](images/4_Peak_ordering_time_analysis.png)
+## Product Analysis
+### 1. Top 10 Product Category
+![Top 10 Product Category](images/5_Top_10_ordered_product.png)
 
 **Insights:**   
+1) bed_bath_table and furniture_decor have the highest and second highest no.of orders respectively - indicating customers frequently purchase home essentials online.
+2) health_beauty has the third highest no.of orders - indicating growing trend of online beauty shopping.
+3) computers_accessories shows strong demand for tech products.
+4) The top 5 categories all have 10,000+ orders - showing consistent demand.
+5) Home & lifestyle categories (bed_bath_table, health_beauty, furniture_decor) dominate - suggesting customers primarily use this platform for household and personal care needs.
