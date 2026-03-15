@@ -36,7 +36,7 @@
 ![Peak Ordering Time](images/4_Peak_ordering_time_analysis.png)
 
 **Insights:**
-## Days:- 
+#Days:- 
 1) Monday and Tuesday has the highest number of orders - indicating customers like to order after the weekend.
 2) No.of orders decreases gradually from Wednesday to Sunday.
 3) Saturday and Sunday have less no.of orders than week days - indicating customers are less likely to shop online on weekends.
