@@ -31,3 +31,28 @@
 3) 555 orders are canceled - showing very low cancelation rate and high customer satisfaction.
 4) 364 invoiced orders and 362 processing orders were in pre-shipment stages when the data was collected.
   
+
+### 4. Peak Ordering Time
+![Peak Ordering Time](images/4_Peak_ordering_time_analysis.png)
+
+**Insights:**
+## Days:- 
+1) Monday and Tuesday has the highest number of orders - indicating customers like to order after the weekend.
+2) No.of orders decreases gradually from Wednesday to Sunday.
+3) Saturday and Sunday have less no.of orders than week days - indicating customers are less likely to shop online on weekends.
+4) Saturday has the least no.of orders - indicating customers prefer leisure activities over online shopping in the weekends.
+
+#Hours:-
+1) No.of orders are very low from 2am to 6am beacuse this is the sleep time for most of the people.
+2) No.of orders start increasing from 6am.
+3) 11am to 4pm is the peak time of ordering.
+4) 4pm has the highest no.of orders - indicating people order towards the end of work hours.
+5) From 5pm to 7pm, no.of order decreases - showing people wind down after work.
+6) From 8pm to 9pm, no.of orders slightly increases - showing people are recharged and are back to online shopping.
+7) After 9pm, no.of orders starts decreasing as it is the dinner and bed time for most of the people.
+
+
+### 4. Peak Ordering Time
+![Peak Ordering Time](images/4_Peak_ordering_time_analysis.png)
+
+**Insights:**   
