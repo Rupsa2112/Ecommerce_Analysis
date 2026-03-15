@@ -1,7 +1,7 @@
 # Analysis & Insights
 
 ---
-
+## Order Analysis
 ### 1. Monthly Order Trends
 ![Monthly Order Trends](images/1_monthly_order_trends.png)
 
