@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Data Analysis
 
 ## 📌 Problem Statement
-Olist is the largest department store in Brazilian marketplaces. It connects small businesses from all over Brazil to customers through a single contract. This project analyzes 100,000+ orders from 2016 to 2018 to understand customer behavior, delivery performance, payment patterns and key factors affecting customer satisfaction.
+Olist is the largest department store in Brazilian marketplaces. It connects small businesses from all over Brazil to customers through a single contract. This project analyzes 100k+ orders from 2016 to 2018 to understand customer behavior, delivery performance, payment patterns and key factors affecting customer satisfaction.
 
 ---
 
@@ -19,7 +19,7 @@ Olist is the largest department store in Brazilian marketplaces. It connects sma
 ### Brazilian E-Commerce Public Dataset by Olist
 - **Source:** [Kaggle — Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Period:** 2016 — 2018
-- **Size:** 100,000+ orders
+- **Size:** 100k+ orders
 - **Type:** Real commercial data 
 
 ---
@@ -37,7 +37,7 @@ Olist is the largest department store in Brazilian marketplaces. It connects sma
 2. **Data Cleaning** — Merged 9 datasets into a single master dataset, handled missing values, removed duplicate rows, removed invalid entries
 3. **Feature Engineering** — Created delivery time, distance type, price range columns for deeper analysis
 4. **Exploratory Data Analysis** — Identified trends, patterns and relationships across all key metrics
-5. **Visualization** — Created 23 charts across key business areas
+5. **Visualization** — Created 24 charts across key business areas
 6. **Business Insights** — Derived actionable recommendations from each analysis
 
 ---
@@ -157,7 +157,22 @@ a blueprint to improve all four together, saving time and cost for the company.
 5) The company should start offering better EMI options, zero interest plans, or credit card exclusive deals as credit card is the backbone of payment system for the company.
 
 
-### 10.  Customer Growth Over Time 
+### 10.  Correlation Heatmap
+![Correlation Heatmap](images/24_correlation_heatmap.png)
+
+**Insights:** 
+ 1) price vs payment_value (0.74) — strongest correlation — higher priced products directly lead to higher total payment 
+ confirming price is the main driver of revenue
+ 2) price vs freight_value (0.41) — moderate correlation — expensive products tend to be heavier, leading to higher
+ shipping costs for customers
+3) price vs payment_installments (0.28) — weak positive — not a strong relationship 
+4) review_score has negative correlation with all variables(-0.00, -0.04, -0.08, -0.04) — price, freight, payment value
+and installments cannot predict review score
+5) freight_value vs payment_installments (0.19) — very weak — high shipping cost does not significantly push customers
+to pay in installments
+
+
+### 11.  Customer Growth Over Time 
 ![Customer Growth Over Time](images/21_Customer_Growth_Over_Time.png)
 
 **Insights:** 
@@ -179,9 +194,9 @@ a blueprint to improve all four together, saving time and cost for the company.
 ---
 
 ## ⚠️ Limitations
-- Outlier removal not applied due to naturally wide price range across diverse product categories on the platform
+- Outlier removal is not applied due to wide price range across diverse product categories on the platform
 - Dataset covers only 2016-2018 — trends may have changed
-- Distance analysis based on state level not exact coordinates
+- Distance analysis is based on state level and not exact coordinates are used
 
 ---
 
